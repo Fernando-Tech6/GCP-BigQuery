@@ -11,3 +11,5 @@
 
 ### Documentação
 https://cloud.google.com/bigquery/docs/datasets?hl=pt_BR#python
+
+OBS: *Todos os scripts criados serão rodados no cloud shell da gcp*
